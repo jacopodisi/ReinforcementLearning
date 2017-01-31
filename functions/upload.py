@@ -1,0 +1,1 @@
+gym.upload(outdir, api_key='sk_v7ktbUr7SzC68vXvnrwLLQ')
